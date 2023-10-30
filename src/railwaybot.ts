@@ -172,7 +172,7 @@ async function GetUsage() {
                     inline: true
                 },
             )
-            .setColor("#00b0f4")
+            .setColor("#9d6fc1")
             .setFooter({
                 text: "Railway Usage Metrics",
                 iconURL: "https://devicons.railway.app/i/railway-dark.svg",
@@ -241,7 +241,7 @@ async function GetUsageTeam() {
                     inline: true
                 },
             )
-            .setColor("#00b0f4")
+            .setColor("#9d6fc1")
             .setFooter({
                 text: "Railway Usage Metrics",
                 iconURL: "https://devicons.railway.app/i/railway-dark.svg",
@@ -315,7 +315,7 @@ async function SendDeploymentMessage(projectName: string, environmentName: strin
                     inline: false
                 },
             )
-            .setColor("#00ff40")
+            .setColor("#9d6fc1")
             .setFooter({
                 text: "RailwayBot",
                 iconURL: "https://devicons.railway.app/i/railway-light.svg",
